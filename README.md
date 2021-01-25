@@ -8,6 +8,12 @@ After some online courses, some self-taught concepts and lots of studying 📚 I
 
 If you saw something that caught your eye and you would like to give me a feedback, dont excitate to reach out!
 
+
+**📫 How to reach me: gisaccaro@gmail.com**
+
+**😄 Pronouns: she/her**
+
+
 **Building knoledge in:**
 
 ![](js.png)
@@ -17,9 +23,3 @@ If you saw something that caught your eye and you would like to give me a feedba
 ![](vs.png)
 ![](github.png)
 ![](react.png)
-
-
-**📫 How to reach me: gisaccaro@gmail.com**
-
-**😄 Pronouns: she/her**
-
