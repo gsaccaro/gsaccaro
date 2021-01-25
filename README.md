@@ -14,7 +14,7 @@ If you saw something that caught your eye and you would like to give me a feedba
 **😄 Pronouns: she/her**
 
 
-**Building knoledge in:**
+**Building knowledge in:**
 
 ![](js.png)
 ![](node.png)
