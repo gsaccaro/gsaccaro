@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World, and welcome to my Github! 👋
 
-<!--
-**gsaccaro/gsaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aerospace engineer who was ready to takeoff in 2020 ✈, however, my flight ended up being delayed by a pandemic 😷, leaving me at the gate's pre-boarding waiting room. While waiting for something to change, I discovered this amazing world of ✨**front-end and webdesign**✨, and after lots of thinking I finally decided to dive into it.
 
-Here are some ideas to get you started:
+After some online courses, some self-taught concepts and lots of studying 📚 I am now starting a portifolio with the things I have made so far. You can check them out over here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you saw something that caught your eye and you would like to give me a feedback, dont excitate to reach out!
+
+
+
+**📫 How to reach me: gisaccaro@gmail.com**
+
+**😄 Pronouns: she/her**
