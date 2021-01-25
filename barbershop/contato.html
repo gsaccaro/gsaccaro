@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Contato - Barbearia Alura</title>
+		<link rel="stylesheet"  href="reset.css">
+		<!-- o reset tem que vir antes de qualquer outro link, se vier depois vai limpar tudo que veio antes -->
+		<link rel="stylesheet" type="text/css" href="style.css">
+			<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<header>
+			<div class="box">
+				<h1><img src="logo.png" alt="Logo da Barbearia Alura"></h1>
+				<nav class="principal">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<main>
+			<form>
+				<label for="nomesob">Nome e Sobrenome</label>
+				<input type="text" name="Nome" id="nomesob"
+				class=".input-pad" required >
+
+				<label for="email">Email</label>
+				<input type="email" name="Email" id="email" class=".input-pad" required placeholder="email@dominio.com">
+
+				<label for="tel">Telefone</label>
+				<input type="tel" name="Telefone" id="tel" class=".input-pad" required placeholder="(XX) XXXXXX-XXXX">
+
+				<label for="msg">Mensagem</label>
+				<textarea cols="40" rows="10" id="msg" class=".input-pad" required></textarea>
+			<!-- diferente da tag de input text area eh uma tag de conteudo -->
+				<fieldset>
+					<legend>Como prefere nosso contato?<legend>
+
+					<label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">Email</label>
+					
+					<label for="radio-tel"><input type="radio" name="contato" value="email" id="radio-tel">Telefone</label>
+					
+
+					<label for="radio-whats"><input type="radio" name="contato" value="whatsapp" id="radio-whats" checked> Whatsapp</label>
+				</fieldset>	
+				
+
+				<fieldset>
+					<legend> Qual horario prefere ser atendido?</legend>
+					<select>
+						<option>Manha</option>
+						<option>Tarde</option>
+						<option>Noite</option>
+					</select>
+				</fieldset>
+
+				<label class="checkbox"><input type="checkbox" checked> Gostaria de receber nossas novidades por email?</label>
+
+				<input type="submit" value="Enviar" class="enviar">
+			</form>
+
+			<table>
+				<thead>
+					<tr>
+						<th>Dia</th>
+						<th>Horario</th>
+					</tr>
+				</thead>
+				
+				<tbody>
+					<tr>
+						<td>Segunda</td>
+						<td>8h - 20h</td>
+					</tr>
+
+					<tr>
+						<td>Quarta</td>
+						<td>8h - 20h</td>
+					</tr>
+
+					<tr>
+						<td>Sexta</td>
+						<td>8h - 20h</td>
+					</tr>
+				</tbody>
+
+			</table>
+
+		</main>
+
+		<footer>
+			<img src="logo-branco.png" alt="Logo da Barbearia Alura">
+			<!-- usando a opcao entity do site https://unicode-table.com/ -->
+			<p> &copy; Copyright Barbearia Alura -2019 </p>
+		</footer>
+	</body>
+</html>
