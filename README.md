@@ -8,8 +8,16 @@ After some online courses, some self-taught concepts and lots of studying 📚 I
 
 If you saw something that caught your eye and you would like to give me a feedback, dont excitate to reach out!
 
+**Building knoledge in:**
+![](js.png)
+![](node.png)
+![](css.png)
+![](html.png)
+![](vs.png)
+![](github.png)
 
 
 **📫 How to reach me: gisaccaro@gmail.com**
 
 **😄 Pronouns: she/her**
+
